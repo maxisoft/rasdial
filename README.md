@@ -1,7 +1,7 @@
 #Rasdial
 
 Library to manipulate windows VPN connections with [Python programming language](https://www.python.org/).  
-Behind the hood, this library use the use [rasdial](http://technet.microsoft.com/en-us/library/ff859533%28WS.10%29.aspx) 
+Behind the hood, this library use the [rasdial](http://technet.microsoft.com/en-us/library/ff859533%28WS.10%29.aspx) 
 command to perform desired actions.
 
 This library allow to programmatically :  
