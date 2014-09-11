@@ -10,12 +10,13 @@ This library allow to programmatically :
     * get the current connected vpn connection's name  
 
 ##Sample
-    import rasdial
-    
-    rasdial.get_current_vpn()  # return the current vpn name as string
-    rasdial.connect('MyVpnConnection', 'user', 'password')  # connect to a vpn
-    rasdial.disconnect('MyVpnConnection')  # close a vpn connection
+```python
+import rasdial
 
+rasdial.get_current_vpn()  # return the current vpn name as string
+rasdial.connect('MyVpnConnection', 'user', 'password')  # connect to a vpn
+rasdial.disconnect('MyVpnConnection')  # close a vpn connection
+```
 
 
 
