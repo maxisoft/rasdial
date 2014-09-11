@@ -1,0 +1,3 @@
+- doc
+- exemples
+- setup.py
