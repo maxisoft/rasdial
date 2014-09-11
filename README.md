@@ -9,7 +9,7 @@ This library allow to programmatically :
     * disconnect a vpn connection  
     * get the current connected vpn connection's name  
 
-##Sample
+##example
 ```python
 import rasdial
 
